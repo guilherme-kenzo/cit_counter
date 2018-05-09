@@ -1,0 +1,348 @@
+Procuradoria-Geral da República
+
+20544 - OBF - PGR
+Reclamação 20.587 – SP
+Relatora: Ministra Cármen Lúcia
+Reclamante: Companhia Paulista de Trens Metropolitanos - CPTM
+Reclamado: TRT2
+
+Reclamação. Responsabilidade subsidiária. Ente público. Culpa in
+eligendo e in vigilando.
+
+O STF, ao julgar a ADC 16, afastou a responsabilidade trabalhista
+subsidiária objetiva dos entes públicos nos casos de inadimplemento das empresas prestadoras de serviços por eles contratadas, mas
+reconheceu, nos casos de verificação concreta de culpa da entidade
+pública contratante, que se poderia cogitar de responsabilização
+subsidiária.
+Impossibilidade de imputação da responsabilidade sem a instrução
+adequada da causa, que deve ser retomada: impossibilidade de construção desse nexo, quando a entidade pública nem sequer foi intimada a apresentar os documentos dos quais se inferiria sua diligência na fiscalização do contrato em causa.
+Parecer pela procedência da reclamação.
+
+1. Introdução
+Está em causa reclamação da Companhia Paulista de Trens Metropolitanos - CPTM, contra acórdão do TRT2, que reconheceu sua
+responsabilidade subsidiária pelos créditos trabalhistas não adimplidos por seu prestador de serviços.
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+Ministério Público Federal
+
+PGR
+
+STF – Rcl. 20.587
+
+O TRT2 desproveu o recurso da reclamante, por entender ter
+sido expressamente demonstrada a conduta culposa da entidade pública, no cumprimento das obrigações da Lei 8.666/1993.
+A reclamante afirma que o acórdão afrontou a SV 10 e a decisão
+na ADC 16.
+
+3. Da solução
+Parece adequado dividir a exposição do desfecho do caso em diversos tópicos.
+3.1. Da evolução da jurisprudência do tema
+A evolução da jurisprudência do Supremo Tribunal Federal sobre o tema em debate parece desenvolver-se até aqui em três etapas.
+Na primeira delas, o Tribunal declarou, no controle abstrato de
+leis, a validade do art. 71 da Lei 8.666/1993, que afasta a responsabilização automática da pessoa jurídica de direito público, pelo inadimplemento de obrigações trabalhistas exigíveis das empresas de
+mão de obra que contrate1. Na mesma oportunidade, contudo, reco1ADC
+
+16, rel. Min. Cesar Peluso: “Responsabilidade Contratual. Sub-
+
+sidiária. Contrato com a administração pública. Inadimplência negocial do outro contraente. Transferência consequente e automática dos seus encargos trabalhistas, fiscais e comerciais, resultantes da execução do contrato, à administração. Impossibilidade jurídica. Consequência proibida pelo art. 71, § 1º, da Lei
+federal nº 8.666/93. Constitucionalidade reconhecida dessa norma. Ação direta
+de constitucionalidade julgada, nesse sentido, procedente. Voto vencido. É
+constitucional a norma inscrita no art. 71, § 1º, da Lei federal nº 8.666, de 26 de
+junho de 1993, com a redação dada pela Lei nº 9.032, de 1995.
+
+2
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+2. Do caso
+
+PGR
+
+STF – Rcl. 20.587
+
+sempre que demonstrada sua culpa na eleição ou na fiscalização do
+contrato de prestação de serviços.
+Assim, o STF passou a admitir a responsabilização subsidiária,
+quando houver o “reconhecimento de situação configuradora de culpa in vigilando, in eligendo ou in omittendo – Dever legal das entidades
+públicas contratantes de fiscalizar o cumprimento, por parte das
+empresas contratadas, das obrigações trabalhistas referentes aos
+empregados vinculados ao contrato celebrado (Lei nº 8.666/93, art.
+67)”2. Consequentemente, o Tribunal passou a entender que “afronta a autoridade da ADC 16 e da Súmula Vinculante 10 acórdão de órgão fracionário de Tribunal que sustenta a responsabilidade da Administração em uma presunção de culpa – i. e., que condena o ente
+estatal com base no simples inadimplemento da prestadora”3.
+Chega-se, por fim, à terceira e atual etapa da jurisprudência. O
+STF agora enfrenta casos nos quais a Justiça do Trabalho afirma a
+existência de culpa da administração, com mais ou menos elementos de prova. Esta reclamação se insere nessa terceira onda de casos.
+3.2. Da necessidade de diferenciação de dois aspectos do problema:
+o material e o processual
+
+A solução do problema parece depender de que se diferenciem
+seus dois aspectos: o de direito material e o de direito processual.
+Com alguma frequência ambas as coisas têm merecido tratamento
+conglobado pelas partes, com repercussões negativas no desfecho
+dos litígios.
+2
+
+AgR na Recl 14.947, Rel. Min. Celso de Mello, DJe de 1º.8.2013.
+
+3
+
+Rcl. 16.846, rel. Min. Roberto Barroso.
+
+3
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+nheceu a licitude de se lhe exigir o cumprimento de tais obrigações,
+
+PGR
+
+STF – Rcl. 20.587
+
+to material do caso, a saber, à validade do art. 71, § 1º, da Lei 8.666,
+relativo à responsabilidade dos entes públicos pelo adimplemento
+de verbas trabalhistas de contratos de trabalho mantidos entre os
+prestadores de serviço com terceiros e o Estado. O Tribunal declarou
+a validade dessa regra de direito material, com sentido muito próprio4. A ementa do julgado é explícita no sentido de ali se tratar da
+“responsabilidade contratual” do poder público, afastada pela regra
+legal mencionada. Daí a conclusão pela “impossibilidade jurídica”
+da “transferência consequente e automática dos [...] encargos trabalhistas, fiscais e comerciais, resultantes da execução do contrato, à
+administração”. Ainda no plano do direito material, o STF entendeu
+que a culpa administrativa, por ação ou omissão, na eleição e na vigilância do contratado pode ter como consequência a imputação, ao
+Estado, dos ônus de sua conduta ilícita.
+Paralelamente a isso deve ser considerado o plano do direito
+processual. Nesse sentido, a intervenção do em. Min. Gilmar Mendes
+no debate: “até pode ocorrer – Ministra Cármen já ressaltou –, num
+quadro [...] de culpa in vigilando, patente flagrante, que a Administração venha a ser responsabilizada, porque não tomou as cautelas de
+
+4
+
+A limitação temática desse assunto de direito material fica muito clara, na in-
+
+tervenção da em. Ministra Cármen Lúcia no debate verbal, ao notar: “a responsabilidade contratual da Administração Pública é uma coisa; a responsabilidade extracontratual ou patrimonial, que é esta e decorre do dano, é outras coisa. O Estado responde por atos lícitos, que são aqueles de contrato, ou por ilícitos, que são os danos praticados. Então, são duas realidades. O § 6º do art. 37 da
+Constituição só trata da responsabilidade administrativa extracontratual”.
+
+4
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+O julgado do STF na ADC 16 parece limitado ao aspecto de direi-
+
+PGR
+
+STF – Rcl. 20.587
+
+temos visto”5.
+O plano do direito processual envolve o problema da prova, desdobrado em duas questões. Dada a impossibilidade de instrução da
+reclamação ou de que ela seja empregada como recurso ordinário,
+deve-se saber, em primeiro lugar, o que se pode considerar como
+fundamento apto de decisões judiciais capaz de demonstrar a culpa
+administrativa. De outro lado, cumpre ver como se distribuiu o ônus
+da prova no julgado sujeito à reclamação, à vista, sobretudo, do princípio da oficialidade que rege os atos públicos e a comum hipossuficiência dos humildes prestadores de serviços, diante da onipotente
+máquina estatal de controle de contratos.
+3.3. Da conjugação de ambos os aspectos na premissa maior para
+resolução do caso
+
+A conjugação dos aspectos de direito material e de direito processual mencionados parece levar a algumas conclusões, que servem, por sua vez, de premissas maiores do silogismo conducente à
+solução dessa reclamação.
+Do ponto de vista do direito material é certo que o mero inadimplemento de obrigações pelo empregador vinculado contratualmente à administração não basta para se caracterizar a responsabilidade
+do poder público pelo pagamento de verbas trabalhistas. Esse é o
+cerne da ADC 16. O acórdão que faça tal vinculação atenta contra a
+decisão proferida pelo STF no controle abstrato de constitucionalidade.
+5
+
+ADC 16.
+
+5
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+estilo. [...]. Mas não é o caso da rotina dos acórdãos do TST que nós
+
+PGR
+
+STF – Rcl. 20.587
+
+se haverá de entender como prova suficiente da culpa. Aqui reside a
+maior dificuldade dessa série de casos, pela impossibilidade ou dificuldade extrema da generalização do que se pode entender como
+fundamento probatório apto a firmar a responsabilidade no acórdão
+reclamado. Cada caso pode ter configuração diversa. Apesar disso,
+devem ser considerados alguns pontos:
+1. A administração pública rege-se pela regra da oficialidade,
+hoje constante do art. 22, § 1º, da Lei 9.784/1999, no plano federal,
+mas que encontra par nos estados e nos municípios, em similares
+regras gerais ou particulares de cada domínio administrativo, como
+o da licitação. Considerando-se o princípio da documentação de
+seus atos, é bastante simples ao poder público demonstrar os atos
+que afastam a culpa na eleição e fiscalização do contrato, até porque
+se cuida aí, sempre, de atos positivos.
+2. Em contrapartida, os antagonistas do poder público nesses
+processos são frequentemente pessoas hipossuficientes, quer no aspecto econômico, quer no atinente à instrução formal; em geral, na
+combinação de ambos. Daí que a exigência da prova de fato negativo
+– consistente na omissão do poder público na eleição e na fiscalização dos atos estatais relativos ao contrato – há de considerar tais aspectos. Seria ilusória ou mesmo materialmente impossível exigir-se,
+de modestos empregados de empresas terceirizadas, que ponham
+em risco seus postos de trabalho e arrostem o temor reverencial em
+face das autoridades públicas, ao passarem a requerer o exame de livros e mais atos do poder público, na verificação mensal do cumprimento dos deveres das empresas contratadas. Acumulam-se aí, por6
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+Já da perspectiva do direito processual, é preciso graduar o que
+
+PGR
+
+STF – Rcl. 20.587
+
+direitos fundamentais de cunho social. É ponto pacífico que os direitos fundamentais abrangem evidentemente os aspectos positivos,
+isto é, da atribuição de faculdades a seus titulares de exigir prestações do Estado, mas também comportam dimensão negativa, a saber, a proibição de que sejam eliminados6. Mas não apenas isso; o
+chamado status negativo desses direitos fundamentais abrange a “vedação de obstrução”7, entendida como a proibição de que determinado processo ou determinada organização seja de tal forma constituída, que torne a realização do respectivo direito fundamental impossível ou a dificulte substancialmente8.
+Eventual obstrução de direitos fundamentais deve ser detidamente considerada, na fundamentação dos julgados trabalhistas, na
+medida em que o STF, na ADC 16, não afastou, de todo, a responsabilidade estatal, mas apenas disse que haveria de ser provada a culpa, da qual deriva.
+3. É claro, de outro lado, que, ao Estado, deve ser dada a oportunidade de apresentar os referidos documentos, quando não imposta
+sua apresentação, como a parte detentora de amplas facilidades instrutórias mencionadas. A simplicidade de o Estado apresentar a prova de que não agiu com culpa não exime o juízo trabalhista de lhe facultar ou mesmo determinar a exibição dos documentos. Passar
+6
+
+Alexy, Robert. Theorie der Grundrechte. 1. Aufl., Suhrkamp, 1994, p. 435.
+
+7
+
+Schmidt-Aßmann, Eberhard. Grundrechte als Organisations- und Verfah-
+
+rensgarantien. In: Merten, Detlef; Papier, Hans-Jürgen. Handbuch der Grundrechte. Heidelberg: CF Müller, 2006, Band 2., p. 993-1029 (p. 1002, nº 22, e p.
+1008, nº39).
+8
+
+Idem, p. 1002, nº 22.
+
+7
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+tanto, dificuldades de todas as índoles, que implicam a obstrução de
+
+PGR
+
+STF – Rcl. 20.587
+
+probatória judicial, para a presunção de culpa é intento vedado já
+pelo efeito vinculatório da decisão na ADC 16.
+4. Para encerrar o rol de aspectos processuais do caso, embora
+talvez seja aquele que, na prática, antecederá os demais, a reclamação exige do interessado na cassação do ato judicial a prova de seus
+pressupostos. Isso significa, nessa espécie de caso, em fazer ver que
+a sentença desconsiderou todos os dados anteriormente declinados,
+para impor a responsabilidade automática do poder público, em
+função apenas do descumprimento, pela empresa privada contratada, de seus deveres trabalhistas.
+Esse dado parece importante, pois o STF já asseverou o “caráter
+soberano do pronunciamento das instâncias ordinárias sobre matéria fático-probatória” e a “consequente inadequação da via processual da reclamação para exame da ocorrência, ou não, do elemento
+subjetivo pertinente à responsabilidade civil da empresa ou da entidade pública tomadora do serviço terceirizado”9.
+3.4. Da aplicação das premissas anteriores ao caso
+A estrutura do raciocínio desenvolvido no acórdão reclamado
+parece espelhar as considerações do item 3 do tópico antecedente,
+isto é, o aresto mencionado não permitiu ao reclamante que se defendesse a respeito do modo pelo qual supervisionou o contrato em
+causa.
+9
+
+Rcl 17.618 AgR, rel. Min. Celso de Mello.
+
+8
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+imediatamente da não apresentação voluntária, sem a estimulação
+
+PGR
+
+STF – Rcl. 20.587
+
+[…] a Administração Pública invoca a Lei 8.666/93, artigo 71, com intuito de afastar a responsabilidade subsidiária. Entretanto, no julgamento da ADC 16, houve
+pronúncia pela constitucionalidade do artigos 71, § 1º,
+da Lei 8.666/93, sendo que nos debates restou consignado que a constitucionalidade não inibe o Judiciário
+Trabalhista, à luz das circunstâncias do caso concreto, à
+base de outras normas, reconhecer a responsabilidade
+subsidiária do Poder Público […].
+O parágrafo primeiro do artigos 71 da Lei 8.666/93 não
+traz o princípio da irresponsabilidade estatal em termos
+absolutos, apenas exclui a responsabilidade do poder
+Público pelos danos a que não deu causa a falta de fiscalização pelo órgão público contratante, ele será responsabilizado.
+Havendo inadimplência das obrigações trabalhistas que
+tenha como causa a falta de fiscalização pelo órgão público contratante, o Poder Público é responsável.
+Dessa forma, a excludente de responsabilidade incide,
+apenas, na hipótese em que o Poder Público contratante
+demonstre ter, no curso da relação contratual, fiscalizado o adequado cumprimento das cláusulas e das garantias das obrigações trabalhistas pela fornecedora de
+mão-de-obra, o que lhe incumbe nos termos do artigos
+37, inciso xxi, da CF e artigos 58, iii, e 67, caput e § 1º,
+sob pena de responsabilidade civil prevista no artigo 82,
+ambos da Lei das Licitações.
+
+9
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+Leia-se a fundamentação do aresto do TRT:
+
+PGR
+
+STF – Rcl. 20.587
+
+nistração Pública (art. 818 da CLT e art. 333 do CPC)
+quanto ao correto cumprimento das obrigações trabalhistas pela empresa terceirizada licitada, devidas aos
+seus empregados, evidencia a omissão culposa da Administração Pública, o que atrai a sua responsabilidade,
+porque todo aquele que causa dano pratica ato ilícito e
+fica obrigado a reparar (art. 82, da Lei n. 8.666/93 c/c
+arts. 186, 927 e 944 CC/02).
+[…]
+Observo que o autor não pretendeu o reconhecimento
+de vínculo empregatício com a tomadora, de modo que
+a alegação de que estava vinculada à primeira demandada não tem o condão de afastar a responsabilidade da
+segunda ré. Importante ressaltar que a recorrente, em
+defesa (fls. 61/62), não nega a contratação da primeira
+demandada, tornando incontroversa a questão, bem
+com a prestação de serviços pelo reclamante.
+In casu, tem-se que a segunda ré não apresentou qualquer documento no sentido de afastar a deficiência na
+fiscalização do cumprimento das obrigações decorrentes do contrato de trabalho da reclamante, não procedendo as alegações de falta de prova e de inversão do
+ônus da prova.
+A obrigação de fiscalizar, no meu entender, abrange todos os valores devidos aos empregados decorrentes da
+prestação de serviço, rezão pela qual a fiscalização realizada pela demandada, ao contrário do alegado, eviden-
+
+10
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+A ausência de prova da fiscalização por parte da Admi-
+
+PGR
+
+STF – Rcl. 20.587
+
+das obrigações trabalhistas pela prestadora de serviços.
+
+Declarada a constitucionalidade da isenção, prima facie, de responsabilidade do poder público pelo adimplemento das verbas trabalhistas, o ônus da demonstração do contrário recai na parte. É certo que, como visto, o juízo trabalhista poderia ter encarregado a entidade pública de exibir os atos mencionados. Sucede que, pelo relatório da sentença, isso não se fez. Partiu-se para a presunção automática da culpa da entidade estatal, sem lhe ter facultado demonstrar o
+contrário por meio da instrução.
+Logo, a decisão em pauta parece atentar contra a diretiva fixada
+na AC 16.
+
+4. Conclusão
+O Ministério Público Federal opina pela procedência da reclamação, para se anular processo e se retornar a demanda ao primeiro
+grau, de modo que lá se realize a instrução, nos termos acima indicados.
+Brasília, 14 de outubro de 2015.
+
+Odim Brandão Ferreira
+Subprocurador-Geral da República
+
+11
+
+Documento assinado digitalmente por ODIM BRANDAO FERREIRA, em 15/10/2015 14:51. Para verificar a assinatura acesse
+http://www.transparencia.mpf.mp.br/atuacao-funcional/consulta-judicial-e-extrajudicial informando o código 17803A4F.F62DF31A.ED3FA3AC.7029CC1E
+
+cia ainda assim a negligência quanto ao cumprimento
+
+

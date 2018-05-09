@@ -1,0 +1,8 @@
+pdfs/
+sample/
+*.rtf
+*.pdf
+*.html
+*.go
+*.ipynb
+*.txt
